@@ -3,23 +3,25 @@ body {
   background-color: black;
 }
 
-h2.intro {
-  color:rgb(183, 219, 250);
-  font-style: italic;
-}
-h1 {
-  color: white;
-}
-p.intro {
+.intro {
   color: yellow;
   text-align: center;
+  font-style: italic;
 }
-p {
-  color: yellow;
+
+.header {
+  color: white;
+  text-align: left;
 }
-img.intro {
+
+.biggerheader {
+  color: lightblue;
+}
+
+img {
   display: block;
   margin: auto;
   width: 300px;
   border: 1px solid black;
 }
+
