@@ -25,3 +25,9 @@ img {
   border: 1px solid black;
 }
 
+/* jQuery */
+.p-class {
+  border: 1px solid white;
+  background-color: purple;
+  color:rgb(239, 255, 96)
+}
